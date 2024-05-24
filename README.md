@@ -1,9 +1,8 @@
 ## TinyRacing
 <p align="center"> 
-    <img src="./res/TinyRacingTrailer.gif">
+    <img src="./res/Racing.gif">
 </p>
 <p align="center"> 
-    <a href="https://tiny.vision/demos/TinyRacing">
         <img src="./res/Trynow.png">
     </a>
 </p>
